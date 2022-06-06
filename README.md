@@ -1,4 +1,4 @@
-# 🚧 REAMDE 😒
+# 🚧 README 😒
 
 This is a basic image used to run pipelines (for gitlab or bitbucket) and handle
 legacy projects where you have to access and synch your projects using sftp.
